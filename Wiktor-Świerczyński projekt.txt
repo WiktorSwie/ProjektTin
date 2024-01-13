@@ -1,0 +1,12 @@
+Projektem jest rejestracja do przychodni lekarskiej
+umożliwia stworzenie konta pacjenta,administratora oraz lekarza. 
+
+Pacjent ma możliwość uwówienie wizyty do specjalistycznego lekarza(laryngolog,okulista,lekarz rodzinny), odwołanie wizyty oraz przegląd lekarzy. 
+
+administraor odpowiada za dodawanie oraz usuwanie kont klientów oraz lekarzy
+
+lekarz może przejrzeć umówione do niego wizyty oraz je odwołać.
+tabele
+Zawiera tabele: pacjenci- zawiera id,imie,nazwisko,numer telefonu,pesel,
+lekarze- zawiera id,imie,nazwisko,numer telefonu,email,specjalizacje
+wizyty zawiera date,id lekarza, id pacjenta, godzinę
