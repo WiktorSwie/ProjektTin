@@ -2,6 +2,6 @@
 
  $host ="localhost";
  $db_user = "root";
- $db_passward ="";
+ $db_password ="";
  $db_name = "projekt_przychodni";
  ?>
